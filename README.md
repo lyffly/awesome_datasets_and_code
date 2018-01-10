@@ -9,6 +9,8 @@
 ## 0x01 mnist 数据集  
 
 为手写数字数据集，0到9
+![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/mnist.jpg)
+
 
 主页链接  
 
@@ -18,6 +20,8 @@
 ## 0x02  cifar10  
 
 为图片数据集，像素为32 x 32 x 3  
+![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/cifar10.jpg)
+
 
 [http://www.cs.toronto.edu/~kriz/cifar.html](http://www.cs.toronto.edu/~kriz/cifar.html)  
 
