@@ -11,7 +11,6 @@
 为手写数字数据集，0到9
 ![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/mnist.jpg)
 
-
 主页链接  
 
 [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/ "http://yann.lecun.com/exdb/mnist/")  
@@ -26,7 +25,11 @@
 [http://www.cs.toronto.edu/~kriz/cifar.html](http://www.cs.toronto.edu/~kriz/cifar.html)  
 
 
+## 0x03  cats and dogs  
+猫和狗的数据集，两种类型的分类。  
 
+![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/catsanddogs.jpg)    
+[https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/c/dogs-vs-cats/data)   
 
 
 
