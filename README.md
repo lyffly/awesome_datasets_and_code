@@ -8,17 +8,17 @@
 
 ## 0x01 mnist 数据集  
 
-为手写数字数据集，0到9
+为手写数字数据集，0到9   
 ![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/mnist.jpg)
 
-主页链接  
+主页链接   
 
-[http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/ "http://yann.lecun.com/exdb/mnist/")  
+[http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/    "http://yann.lecun.com/exdb/mnist/")  
 
 
 ## 0x02  cifar10  
 
-为图片数据集，像素为32 x 32 x 3  
+为图片数据集，像素为32 x 32 x 3   
 ![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/cifar10.jpg)
 
 
@@ -32,7 +32,14 @@
 [https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/c/dogs-vs-cats/data)   
 
 
+## 0x04 fashion mnist 数据集  
 
+用来代替手写数字的一个新数据集    
+![](https://github.com/lyffly/awesome_datasets_and_code/blob/master/imgs/fashionmnist.jpg)
+
+主页链接   
+
+[https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)  
 
 
 
