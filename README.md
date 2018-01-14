@@ -42,7 +42,38 @@
 [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)  
 
 
+## 0x05 ImageNET 数据集  
+
+各种图片数据集，很全，带标注数据。  
+
+主页链接   
+
+[http://image-net.org/download-imageurls](http://image-net.org/download-imageurls)   
+
+## 0x06 COCO 数据集  
+
+各种图片数据集，很全，带标注数据。微软公司发布    
+
+主页链接   
+
+[http://cocodataset.org/](http://cocodataset.org/)   
+
+## 0x05 ImageNET 数据集  
+
+各种图片数据集，很全，带标注数据。  
+
+主页链接   
+
+[http://image-net.org/download-imageurls](http://image-net.org/download-imageurls)   
+
+## 0x07 Pascal VOC 数据集  
+
+各种图片数据集，很全，带标注数据。  
+
+主页链接   
+
+[http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/)   
 
 
 
-  
+
